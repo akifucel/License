@@ -1,5 +1,22 @@
-7CAB-412F;BGS;MEHMET AKİF ÜÇEL;SONSUZ
-F4C4-0258;BGS;IBRAHIM ALKAN;SONSUZ
-CA9A-7380;DEMO;METMET COR;DENEME
-BE23-E7F1;DEMO;HAFIS OZEL;DENEME
-6A2A-0AD9;DEMO;BERIL;SONSUZ
+Disk;MACID1;MACID2;İsim;Kullanıcı;e-Posta;Kategori;Üretici;Ürün;Alım Tarihi;Bedeli;Alım Emri;Sipariş No;Lisans Sahibi;Lisans E-Posta;Bitiş Tarihi;Teslim Tarihi;Devredilebilir;Firma;Telefon;Notlar
+7CAB-412F;B0:25:AA:3A:AC:36;34:7D:F6:16:F5:F8;MEHMET AKİF ÜÇEL;akifucel;akif.ucel@bgsbilgi.com.tr;geliştirici;BGS;Tümü;0000-00-00;0;0;0;BGS;akif.ucel@bgsbilgi.com.tr;0000-00-00;0000-00-00;Hayır;BGS Bilgi Sistemleri;+90(542)4377057;Yok
+100D-545E;80:FA:5B:4C:8B:3D;;MERT ALİ TOMBUL;mertalitombul;mertali.tombul@bgsbilgi.com.tr;geliştirici;BGS;Tümü;0000-00-00;0;0;0;BGS;mertali.tombul@bgsbilgi.com.tr;0000-00-00;0000-00-00;Hayır;BGS Bilgi Sistemleri;0;Yok
+F676-AA9E;00:FF:E6:15:B2:46;20:4E:F6:CA:AE:41;SUDE GÜRMEN;;;demo;BGS;Tümü;0000-00-00;0;0;0;BGS;;0000-00-00;0000-00-00;Hayır;BGS Bilgi Sistemleri;0;Yok
+6A2A-0AD9;00:FF:99:9C:D5:04;F4:CE:23:0B:9A:E1;MEHTAP BACACI;;;demo;BGS;Tümü;0000-00-00;0;0;0;BGS;;0000-00-00;0000-00-00;Hayır;BGS Bilgi Sistemleri;0;Yok
+6A2A-0AD9;;;BERIL MUTLU;;;demo;BGS;Tümü;0000-00-00;0;0;0;BGS;;0000-00-00;0000-00-00;Hayir;BGS Bilgi Sistemleri;0;Yok
+F4C4-0258;D4:25:8B:11:32:3F;80:FA:5B:50:01:E4;İBRAHİM ALKAN;;;demo;BGS;Tümü;0000-00-00;0;0;0;BGS;;0000-00-00;0000-00-00;Hayir;BGS Bilgi Sistemleri;0;Yok
+B699-B631;20:89:84:86:0E:A4;60:36:DD:84:F3:05;BAYRAM ŞENTÜRK;;;abonelik;BGS;BGSCityGML;30.05.2024;;;;bayturkmimarlik@gmail.com;;1.06.2025;30.05.2024;Hayır;Şentürk Mimarlık;+90(543)8568816;İlk Kullanıcı
+20D2-F824;18:C0:4D:55:84:6B;6C:60:EB:C5:6C:79;GÜNAY AKÇA;;;abonelik;BGS;BGSCityGML;06.06.2024;;;;gunayakca@hotmail.com ;;15.06.2025;15.06.2024;Hayır;Akça Jeoloji Harita Mühendislik Sanayi Ticaret Anonim Şirketi;5077868141;İlk Kullanıcı
+DCE9-51A6;84:2A:FD:CE:9E:D9;5C:3A:45:53:CF:5D;GÜNNUR AKÇA;;;abonelik;BGS;BGSCityGML;06.06.2024;;;;gunnurakca@hotmail.com;;15.06.2025;15.06.2024;Hayır;Akça Jeoloji Harita Mühendislik Sanayi Ticaret Anonim Şirketi;5073761728;İlk Kullanıcı
+A0C7-D1FA;2C:60:0C:0C:51:18;34:DE:1A:6A:BE:E0;SADIK EREZER;;;abonelik;BGS;BGSCityGML;02.07.2024;;;;referansharita@gmail.com;;3.07.2025;3.07.2024;Hayır;Referans Harita;5320647569;İlk Kullanıcı
+1A6F-0807;74:D4:DD:2A:D9:6B;F4:6D:3F:90:B7:53;MERVE TURAN;;;abonelik;BGS;BGSCityGML;06.08.2024;;;;mrveturn@gmail.com;;07.08.2025;07.08.2024;Hayır;TOKTAŞ HARITA;+90 543 616 20 98;İlk Kullanıcı
+70F9-455A;6C:02:E0:CB:1B:E8;14:85:7F:89:FF:94;TURGAY KINACI;;;abonelik;BGS;BGSCityGML;21.08.2024;;;;ari.harita@gmail.com;;21.08.2025;21.08.2024;Hayır;ARI HARITA;0533 571 06 92;İlk Kullanıcı
+B655-AA25;D8:43:AE:D5:9D:E1;98:5F:41:8B:D4:04;HİKMET PERGEL;;;abonelik;BGS;BGSCityGML;06.09.2024;;;;hikmet.pergel@gmail.com;;12.09.2025;12.09.2024;Hayır;Pergel Mühendislik;0533 470 17 53 ;İlk Kullanıcı
+8AAD-7D69;D8:43:AE:85:E3:B2;B0:47:E9:EE:22:26;SÜLEYMAN PERGEL;;;abonelik;BGS;BGSCityGML;06.09.2024;;;;spergel@kentmuhendislik.com;;12.09.2025;12.09.2024;Hayır;Pergel Mühendislik;0533 242 40 20;İlk Kullanıcı
+A018-1F4D;0C:54:A5:FB:25:A5;40:F0:2F:5D:64:B1;SELMAN AYDEMİR;;;abonelik;BGS;BGSCityGML;23.09.2024;;;;yorungemuhendislik@gmail.com;;26.09.2025;26.09.2024;Hayır;Yörünge Mühendislik;0554 472 61 26;İlk Kullanıcı
+5E75-4BEE;08:BF:B8:9F:59:46;;SELMA ŞAHİN;;;abonelik;BGS;BGSCityGML;26.09.2024;;;;Selmamertberk@hotmail.com;;26.09.2025;26.09.2024;Hayır;Şahin Harita Kadastro İmar Bilgi Sistemleri Bürosu;0505 311 97 72;İlk Kullanıcı
+D844-C10C;2C:F0:5D:FE:6C:73;70:1A:B8:04:73:24;AHMET ÖZGÜR TUNCEL;;;abonelik;BGS;BGSCityGML;23.09.2024;;;;tuncelahmet@gmail.com;;31.10.2025;31.10.2024;Hayır;Tem Harita Mühendislik Müşavirlik Tic.Ltd.Şti;0532 450 94 11;İlk Kullanıcı
+B2DF-89F5;64:4E:D7:97:B6:1E;50:5A:65:FE:89:55;AHMET ÖZGÜR TUNCEL2;;;abonelik;BGS;BGSCityGML;23.09.2024;;;;tuncelahmet@gmail.com;;31.10.2025;31.10.2024;Hayır;Tem Harita Mühendislik Müşavirlik Tic.Ltd.Şti;0532 450 94 11;İlk Kullanıcı
+08AD-29EB;D8:43:AE:D6:3A:D9;98:5F:41:8D:42:8A;MUHAMMET KAHRAMAN;;;abonelik;BGS;BGSCityGML;07.11.2024 ;;;;tuncelahmet@gmail.com;;19.11.2025;19.11.2024 ;Hayır;Tem Harita Mühendislik Müşavirlik Tic.Ltd.Şti;0532 450 94 11;İlk Kullanıcı
+D4A3-2A62;5C:60:BA:C2:1D:DF;30:03:C8:11:D0:47;MEVLÜT DURAL;;;abonelik;BGS;BGSCityGML;21.11.2024;;;;duralharita@gmail.com;;25.11.2025;25.11.2024;Hayır;Dural Harita;0554 237 24 51;İlk Kullanıcı
+B99C-BC70; C0:3F:D5:45:52:28; 6C:FD:B9:B2:48:B3;YUSUF YARARLI;;;abonelik;BGS;BGSCityGML;21.11.2024;;;;duralharita@gmail.com;;25.11.2025;25.11.2024;Hayır;Dural Harita;0554 237 24 51;İlk Kullanıcı
